@@ -1,5 +1,5 @@
 console.log("Hello JavaScript");
-const myName ="Maxim";
+const myName = "Maxim";
 console.log(myName);
-const myPlanet ='EARTH';
+const myPlanet = "EARTH";
 console.log(myPlanet);
